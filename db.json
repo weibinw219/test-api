@@ -3,21 +3,25 @@
         {
             "id": 0,
             "address": "86 Cherry Post Drive",
+            "pic-add": "https://image.shutterstock.com/image-photo/beautiful-old-houses-hanseatic-city-600w-1906212715.jpg",
             "MLS":"MLS@ W5426298"
         },
         {
             "id": 1,
             "address": "3507 Lakeshore Road E",
+            "pic-add": "https://image.shutterstock.com/image-photo/perfect-neighbourhood-houses-suburb-summer-600w-1914761218.jpg",
             "MLS":"MLS@ W5426248"
         },
         {
             "id": 2,
             "address": "208 Elm Drive",
+            "pic-add" :"https://image.shutterstock.com/image-photo/perfect-neighbourhood-houses-suburb-summer-600w-1937913955.jpg",
             "MLS":"MLS@ W5986298"
         },
         {
             "id": 3,
             "address": "1702 Bloor Street",
+            "pic-add": "https://image.shutterstock.com/image-illustration/3d-rendering-modern-cozy-house-600w-1017132592.jpg",
             "MLS":"MLS@ W5426231"
         }
 
