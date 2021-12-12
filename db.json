@@ -1,0 +1,25 @@
+{
+    "houselistings": [
+        {
+            "id": 0,
+            "address": "86 Cherry Post Drive",
+            "MLS":"MLS@ W5426298"
+        },
+        {
+            "id": 1,
+            "address": "3507 Lakeshore Road E",
+            "MLS":"MLS@ W5426248"
+        },
+        {
+            "id": 2,
+            "address": "208 Elm Drive",
+            "MLS":"MLS@ W5986298"
+        },
+        {
+            "id": 3,
+            "address": "1702 Bloor Street",
+            "MLS":"MLS@ W5426231"
+        }
+
+    ]
+}
