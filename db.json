@@ -4,49 +4,58 @@
             "id": 0,
             "Address": "86 Cherry Post Drive",
             "ImgSrc": "https://image.shutterstock.com/image-photo/beautiful-old-houses-hanseatic-city-600w-1906212715.jpg",
-            "MLS":"MLS@ W5426298"
+            "MLS":"MLS@ W5426298",
+            "listingPrice": 45000
         },
         {
             "id": 1,
             "Address": "3507 Lakeshore Road E",
             "ImgSrc": "https://image.shutterstock.com/image-photo/perfect-neighbourhood-houses-suburb-summer-600w-1914761218.jpg",
-            "MLS":"MLS@ W5426248"
+            "MLS":"MLS@ W5426248",
+            "listingPrice": 55000
         },
         {
             "id": 2,
             "Address": "208 Elm Drive",
             "ImgSrc" :"https://image.shutterstock.com/image-photo/perfect-neighbourhood-houses-suburb-summer-600w-1937913955.jpg",
-            "MLS":"MLS@ W5986298"
+            "MLS":"MLS@ W5986298",
+            "listingPrice": 95000
         },
         {
             "id": 3,
             "Address": "1702 Bloor Street",
             "ImgSrc": "https://image.shutterstock.com/image-illustration/3d-rendering-modern-cozy-house-600w-1017132592.jpg",
-            "MLS":"MLS@ W5426231"
+            "MLS":"MLS@ W5426231",
+            "listingPrice": 75000
         },
         {
             "id": 4,
             "Address": "153 - 601 Shoreline Drive",
             "ImgSrc": "https://image.shutterstock.com/image-photo/exterior-view-house-green-grasshome-600w-700161730.jpg",
-            "MLS":"MLS@ W5456595"
+            "MLS":"MLS@ W5456595",
+            "listingPrice": 75000
+            
         },
         {
             "id": 5,
             "Address": "7293 Magistrate Terrace",
             "ImgSrc": "https://image.shutterstock.com/image-illustration/modern-house-terrace-swimming-pool-600w-1513007366.jpg",
-            "MLS":"MLS@ 40195068"
+            "MLS":"MLS@ 40195068",
+            "listingPrice": 35000
         },
         {
             "id": 6,
             "Address": "705-1140 Parkwest Place",
             "ImgSrc": "https://image.shutterstock.com/image-illustration/3d-rendering-modern-cozy-house-600w-1699684264.jpg",
-            "MLS":"MLS@ W5456508"
+            "MLS":"MLS@ W5456508",
+            "listingPrice": 56000
         },
         {
             "id": 7,
             "Address": "1923 Calgary Court",
             "ImgSrc": "https://image.shutterstock.com/image-illustration/3d-rendering-modern-cozy-house-600w-780358048.jpg",
-            "MLS":"MLS@ W5456366"
+            "MLS":"MLS@ W5456366",
+            "listingPrice": 29000
         }
 
     ]
